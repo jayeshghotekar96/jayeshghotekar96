@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+JavaScript+%C2%B7+MongoDB;Building+real+software+since+2nd+year+%F0%9F%92%BB;CGPA+8.9+%7C+Open+to+FTE+%26+PPO+2027+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+JavaScript+%C2%B7+MongoDB;Building+real+software+since+2nd+year+%F0%9F%92%BB;CGPA+8.3+%7C+Open+to+FTE+%26+PPO+2027+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@
 const jayesh = {
   name:        "Jayesh Ghotekar",
   location:    "Nashik, Maharashtra, India 🇮🇳",
-  education:   "B.E. Computer Engineering @ LoGMIEER (CGPA: 8.9/10)",
+  education:   "B.E. Computer Engineering @ LoGMIEER (CGPA: 8.3/10)",
   batch:       "2027 Placement Batch",
   role:        "Full Stack Developer",
 
@@ -149,7 +149,7 @@ const jayesh = {
 | 🥇 **PVGHackHub National Level Hackathon** — Participant & Presenter | 2025 |
 | 👨‍💼 **Student Body President** — LoGMIEER (organised 5+ technical events) | 2023–2026 |
 | 💼 **Full Stack Intern** — StreamlineTech Pvt. Ltd. | 2026 |
-| 🎓 **CGPA 8.9/10** — B.E. Computer Engineering, LoGMIEER | 2023–2027 |
+| 🎓 **CGPA 8.3/10** — B.E. Computer Engineering, LoGMIEER | 2023–2027 |
 
 ---
 
