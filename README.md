@@ -228,16 +228,6 @@ Full CRUD database system for criminal records — search, filter, and manage vi
 
 ---
 
-## 💡 Fun Facts
-
-- 🔒 Built a network threat detector from scratch in **under 24 hours** at a national hackathon
-- 🎵 Coded a fully functional Spotify clone with **zero external libraries**
-- 🎓 Student Body President + **CGPA 8.9** — simultaneously
-- 🧠 Mapping **95+ Maharashtra reservation categories** into one clean web app
-- ☕ Best code always happens at **11PM**
-- 🎯 Goal: SDE at a product company — **2027 placement batch**
-
----
 
 ## 💬 Dev Quote
 
