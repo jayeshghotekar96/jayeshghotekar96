@@ -61,7 +61,7 @@ const jayesh = {
 
 **💻 Languages**
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,java,cpp,c,python&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,java,cpp,c,python&theme=dark)](https://skillicons.dev)
 
 **🎨 Frontend**
 
