@@ -171,10 +171,11 @@ Full CRUD database system for criminal records — search, filter, and manage vi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshghotekar96&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshghotekar96&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&cache_seconds=0&v=1"
+width="100%"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
